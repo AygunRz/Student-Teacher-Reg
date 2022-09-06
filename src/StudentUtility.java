@@ -14,6 +14,5 @@ public class StudentUtility {
         student.setUniversity(university);
 
         return student;
-
     }
 }
